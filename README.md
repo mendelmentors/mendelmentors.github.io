@@ -1,2 +1,2 @@
-# mendelmentors.github.io
+# MENDEL MENTORS
 Learn What Matters
